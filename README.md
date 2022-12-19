@@ -1,6 +1,7 @@
 ## alx-frontend-javascript
 
 ## DIRECTORIES :file_folder:
+[0x00-ES6_basic](0x00-ES6_basic)
 
 
 <div align="center">
